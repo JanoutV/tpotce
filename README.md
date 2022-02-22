@@ -1,5 +1,7 @@
 ![T-Pot](doc/tpotsocial.png)
 
+A very easy way how to edit this thing
+
 T-Pot 20.06 runs on Debian (Stable), is based heavily on
 
 [docker](https://www.docker.com/), [docker-compose](https://docs.docker.com/compose/)
